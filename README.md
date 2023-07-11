@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: bee·zhn
 - ⚡ Fun fact: compulsive gambling does not mean that you are a weak person
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bij7n)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=bij7n)](https://git.io/streak-stats)
